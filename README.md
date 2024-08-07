@@ -1,5 +1,8 @@
 # fansly-scraper
 
+> [!IMPORTANT]
+> This repo has been replaced with the repo [here](https://github.com/agnosto/fansly-scraper).
+
 ⚠ This is currently under active development, everything is still being planned out and tested. Feel free to create issues/pr's to assist in the creation of this project.
 
 ### A simple all in one fansly interaction tool.
